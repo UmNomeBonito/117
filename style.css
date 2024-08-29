@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(138, 208, 255); /* Cor de fundo */
+  }
+  
+  #pontuacao {
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  #cronometro {
+    float: right;
+    margin-right: 5px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  h1 {
+    background-color: cornsilk;
+    color: rgb(38, 0, 255);
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  #mostrar_desenho {
+    float: right;
+  }
+  
+  p {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: black;
+  }
+  
+  #esboco_a_ser_desenhado {
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: red;
+  }
+  
